@@ -10,4 +10,4 @@ For questions related to the material, please contact Melissa Lopez (m.lopez@uu.
 - GW tutorial 2: we introduce the basics on how to read, pre-process and represent real detector data. It includes PSD computation.
 - GW tutorial 3: some times it is useful to generate your own simulations. We also introduce matched filtering.
 - GW tutorial bonus track: ET configuration - redshift as a function of the total mass.
-- Slides [TODO]: small presentation to introduce the topic.
+- Slides: small presentation to introduce the topic. The power point is [here](https://surfdrive.surf.nl/files/index.php/s/BqEw3mh1N5w7jG8).
